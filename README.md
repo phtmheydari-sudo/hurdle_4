@@ -8,7 +8,7 @@ This repository contains my solution for the Hurdle 4 challenge from Reeborg’s
 
 This recording shows the robot navigating dynamically through the hurdles until reaching the goal.
 
-![Demo](demo.gif)
+![Demo](demo.giff)
 
 ---
 
@@ -16,7 +16,7 @@ This recording shows the robot navigating dynamically through the hurdles until 
 
 Final position of the robot after successfully completing the challenge.
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshott.png)
 
 
 ##  About the Challenge
