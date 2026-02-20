@@ -16,7 +16,7 @@ This recording shows the robot navigating dynamically through the hurdles until 
 
 Final position of the robot after successfully completing the challenge.
 
-![Screenshot](screenshott.png)
+![Screenshot](Screenshott.png)
 
 
 ##  About the Challenge
